@@ -64,7 +64,7 @@ const Card = ({
   title: string;
   icon: React.ReactNode;
   children?: React.ReactNode;
-  desc: String;
+  desc: string;
 }) => {
   const [hovered, setHovered] = React.useState(false);
   return (

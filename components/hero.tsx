@@ -34,7 +34,7 @@ const hero = () => {
        words='Transforming classes into semless '
       />
       <p className='text-center'>
-        Hi, I'm Sabari
+         I&apos;m Sabari
       </p>
       <a href='#about'>
         <MagicButton 

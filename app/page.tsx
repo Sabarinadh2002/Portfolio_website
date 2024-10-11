@@ -5,7 +5,7 @@ import RecentProject from "@/components/RecentProject";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import Grid from "@/components/ui/Grid";
 import { navItems } from "@/data";
-import { FaHome } from "react-icons/fa";
+
 
 
 export default function Home() {
